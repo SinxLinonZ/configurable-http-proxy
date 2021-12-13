@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "commander": "~7.2",
-    "http-proxy": "^1.18.1",
+    "http-proxy": "https://gitlab.nsl.tuis.ac.jp/h-kys/http-proxy-hook.git",
     "prom-client": "14.0.1",
     "strftime": "~0.10.0",
     "winston": "~3.3.0"
