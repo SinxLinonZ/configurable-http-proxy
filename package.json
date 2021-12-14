@@ -2,6 +2,7 @@
   "version": "4.5.1-dev.0",
   "name": "configurable-http-proxy",
   "description": "A configurable-on-the-fly HTTP Proxy",
+  "private": true,
   "author": "Jupyter Developers",
   "license": "BSD-3-Clause",
   "repository": {
@@ -10,7 +11,7 @@
   },
   "dependencies": {
     "commander": "~7.2",
-    "http-proxy": "git+https://gitlab.nsl.tuis.ac.jp/h-kys/http-proxy-hook.git#master",
+    "http-proxy": "git+https://gitlab.nsl.tuis.ac.jp/h-kys/http-proxy.git#master",
     "prom-client": "14.0.1",
     "strftime": "~0.10.0",
     "winston": "~3.3.0"
