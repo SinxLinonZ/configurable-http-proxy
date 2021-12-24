@@ -1,3 +1,11 @@
+# ***VERY IMPORTANT NOTICE***
+This repository is forked from https://github.com/jupyterhub/configurable-http-proxy
+
+package.json is modified to use customed http-proxy module.
+
+For research use only. All copyrights reserved by Jupyter Team
+
+
 # [configurable-http-proxy](https://github.com/jupyterhub/configurable-http-proxy)
 
 [![npm](https://img.shields.io/npm/v/configurable-http-proxy.svg?logo=npm)](https://www.npmjs.com/package/configurable-http-proxy)
