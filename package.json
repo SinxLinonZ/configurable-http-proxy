@@ -7,11 +7,11 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jupyterhub/configurable-http-proxy.git"
+    "url": "https://github.com/SinxLinonZ/configurable-http-proxy.git"
   },
   "dependencies": {
     "commander": "~7.2",
-    "http-proxy": "git+https://gitlab.nsl.tuis.ac.jp/h-kys/http-proxy.git#master",
+    "http-proxy": "github:SinxLinonZ/http-proxy",
     "prom-client": "14.0.1",
     "strftime": "~0.10.0",
     "winston": "~3.3.0"
