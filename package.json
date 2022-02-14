@@ -14,7 +14,7 @@
     "http-proxy": "github:SinxLinonZ/http-proxy",
     "prom-client": "14.0.1",
     "strftime": "~0.10.0",
-    "winston": "~3.3.0"
+    "winston": "~3.6.0"
   },
   "devDependencies": {
     "jasmine": "^3.5.0",
