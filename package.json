@@ -10,7 +10,7 @@
     "url": "https://github.com/SinxLinonZ/configurable-http-proxy.git"
   },
   "dependencies": {
-    "commander": "~7.2",
+    "commander": "~10.0",
     "http-proxy": "file:../http-proxy",
     "prom-client": "14.0.1",
     "strftime": "~0.10.0",
